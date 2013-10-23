@@ -6,7 +6,9 @@ application up and running.
 Things you may want to cover:
 
 * Ruby version
+# Ruby on Rails Tutorial: sample application
 
+This is the sample application for the [*Ruby on Rails Tutorial*]
 * System dependencies
 
 * Configuration
